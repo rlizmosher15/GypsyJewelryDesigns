@@ -2847,8 +2847,8 @@ section.lazy-placeholder:after {
   }
 }
 .cid-s8eSlPKD3p {
-  padding-top: 45px;
-  padding-bottom: 45px;
+  padding-top: 0px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-s8eSlPKD3p .content-slider {
@@ -3108,7 +3108,7 @@ section.lazy-placeholder:after {
   background: transparent !important;
 }
 .cid-s8eSlPKD3p .image_wrapper {
-  height: 400px;
+  height: 700px;
   width: 100%;
   position: relative;
   display: inline-block;
@@ -3121,7 +3121,7 @@ section.lazy-placeholder:after {
   text-align: center;
 }
 .cid-s8eSlPKD3p .content-slider-wrap {
-  width: 60%;
+  width: 73%;
 }
 .cid-s9f9cVmfic {
   padding-top: 30px;
