@@ -1,4 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Rubik:300,400,500,600,700,800,900,300i,400i,500i,600i,700i,800i,900i&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700&display=swap);
 @import url(https://fonts.googleapis.com/css?family=Raleway:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i&display=swap);
 
 
@@ -33,12 +34,12 @@ body {
   font-size: 1.92rem;
 }
 .display-5 {
-  font-family: 'Raleway', sans-serif;
-  font-size: 1.5rem;
+  font-family: 'Oswald', sans-serif;
+  font-size: 2rem;
   font-display: swap;
 }
 .display-5 > .mbr-iconfont {
-  font-size: 2.4rem;
+  font-size: 3.2rem;
 }
 .display-7 {
   font-family: 'Rubik', sans-serif;
@@ -70,9 +71,9 @@ body {
     line-height: calc( 1.4 * (1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
-    font-size: 1.2rem;
-    font-size: calc( 1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.6rem;
+    font-size: calc( 1.35rem + (2 - 1.35) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.35rem + (2 - 1.35) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -3147,6 +3148,56 @@ section.lazy-placeholder:after {
 }
 .cid-shhmKypZ64 .mbr-text {
   text-align: center;
+}
+.cid-simB4vD6jo {
+  padding-top: 75px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-simB4vD6jo h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 2rem;
+}
+.cid-simB4vD6jo p {
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
+  padding-top: 2rem;
+}
+.cid-simB4vD6jo .mbr-section-btn {
+  padding-top: 2.5rem;
+}
+.cid-simB4vD6jo .mbr-section-btn a {
+  margin: 0;
+}
+.cid-simB4vD6jo .mbr-text {
+  color: #767676;
+}
+.cid-simB4vD6jo .card-wrapper {
+  height: 100%;
+}
+@media (max-width: 767px) {
+  .cid-simB4vD6jo .card:not(.last-child) {
+    padding-bottom: 2rem;
+  }
+}
+.cid-simB4vD6jo .mbr-text,
+.cid-simB4vD6jo .mbr-section-btn {
+  text-align: center;
+}
+.cid-simB4vD6jo .card-title {
+  color: #999999;
+  text-align: center;
+}
+.cid-simB4vD6jo H2 {
+  text-align: center;
+  color: #76687e;
+}
+.cid-simB4vD6jo .mbr-section-subtitle {
+  text-align: center;
+  color: #ab9fb2;
 }
 .cid-sgINu6Xsex {
   padding-top: 0px;
